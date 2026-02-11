@@ -1,0 +1,8 @@
+# Negeer venv en git
+.venv
+.git
+__pycache__
+
+# Negeer EDA en data voor Docker
+notebooks/
+data/
